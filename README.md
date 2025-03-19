@@ -40,9 +40,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 and many more, including code architecture and reusability
 
-
 <br><br>  
-
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -78,13 +76,6 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-<br><br>  
-
-
- ## <a name="screenshots"> 📸 Screenshots</a>
-
-(Add screenshots of your project here)
 
 
 <br><br>  
