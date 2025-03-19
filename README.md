@@ -40,7 +40,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 and many more, including code architecture and reusability
 
-<br><br>  
+<br>
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
