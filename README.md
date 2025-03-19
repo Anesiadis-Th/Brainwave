@@ -1,5 +1,7 @@
 Brainwave
 
+
+
 ## <a name="introduction">🤖 Introduction</a>
 
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
@@ -10,6 +12,9 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 - React.js
 - Tailwind CSS
+
+
+
 
 
 ## <a name="features">🔋 Features</a>
@@ -27,6 +32,9 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
 
 and many more, including code architecture and reusability
+
+
+
 
 
 ## <a name="quick-start">🤸 Quick Start</a>
@@ -64,10 +72,15 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-📸 Screenshots
+
+
+
+ ## <a name="screenshots"> 📸 Screenshots</a>
 
 (Add screenshots of your project here)
 
+
+
 ## <a name="license">📜 License</a>
 
-This project follows the JS Mastery license. See LICENSE for more details.
+This project follows the JS Mastery Youtube tutorial license. 
